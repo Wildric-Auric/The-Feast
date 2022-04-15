@@ -1,0 +1,29 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+html {
+    background-color: rgb(4, 13, 17);
+}
+
+.textZone {
+    font-family: 'Courier New';
+    font-size: 20px;
+    padding:0px 3% 3% 3%;
+    color: white;
+
+}
+
+.text {
+    margin:3px 20%;
+    display: box;
+    background-color: brown;
+    border:solid;
+    border-color: yellow;
+}
+
+.nameField {
+    color: black;
+    padding: 2%;
+}
